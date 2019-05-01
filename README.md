@@ -1,1 +1,1 @@
-# Studia
+# Aplikacje internetowe
