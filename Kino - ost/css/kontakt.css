@@ -1,0 +1,77 @@
+.template-content {
+    width: 100%;
+    background-color: #242424;
+    margin-left: 30px;
+}
+
+.contact-address {
+    width: 100%;
+    float: left;
+}
+
+.form {
+    width: 100%;
+    padding-left: 20px;
+}
+
+
+.inputs {
+	width: 100%;
+    float: left;
+}
+
+.input-box {
+    width: 100%;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.input-name {
+    width: 81px;
+    height: 25px;
+    float: left;
+    font-size: 11px;
+    line-height: 25px;
+    text-align: left;
+    color: #white;
+}
+
+.input-cntt {
+    width: 80%;
+    height: 25px;
+    padding-left: 17px;
+    float: left;
+}
+
+.input-form {
+    width: 100%;
+    height: 23px;
+    float: left;
+    background-color: #101010;
+    border: 1px #2e2e2e solid;
+    color: #fff;
+    padding-left: 7px;
+}
+
+.textarea {
+    width: 56%;
+    height: 150px;
+    background-color: #101010;
+    border: 1px #2e2e2e solid;
+    color: #fff;
+	margin-top: 10px;
+    font-family: Tahoma;
+	float:left;
+	margin-left: 17px;
+}
+
+.input-box p {
+    font-size: 13px;
+    color: #white;
+    float: left;
+    line-height: 35px;
+}
+
+
+

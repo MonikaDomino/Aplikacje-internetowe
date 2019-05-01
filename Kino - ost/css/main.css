@@ -1,0 +1,133 @@
+body
+{
+	background-image: url("prism/prism.png");
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: #C0D06F;
+	margin: 20px;
+}
+
+.kino
+{
+	text-align: center;
+}
+
+.kino img
+{
+	width: 100%;
+	height: auto;
+}
+
+.kino p
+{
+	margin-bottom: 20px;
+	font-size: 13px;
+	text-align: left;
+	margin-left: 10px;
+}
+
+.kino img 
+{
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+/*
+.navbar-nav li:hover>.dropdown-menu
+{
+	display: block;
+}
+*/
+
+.navbar
+{
+	min-height: 57px;
+}
+
+.bg-jumpers
+{
+	background-color: #395f9b!important;
+	padding: 10 px; 
+}
+
+a.tilelink 
+{
+	color: #39a5f1;
+	text-decoration: none;
+	display: block;
+}
+
+.table 
+{
+	color: white;
+	vertical-align: center;
+	font-size: 14px;
+}
+
+h2 
+{
+	font-size: 22px;
+	color: #395f9b;
+	margin-top: 25px ;
+	margin-bottom:20px;
+	margin-left: 10px;
+	text-align: left;
+}
+
+.footer 
+{
+	background-color: #4468a3;
+	background: inline;
+	
+}
+
+h3 
+{
+	font-size: 22px;
+	color: #395f9b;
+	margin-top: 25px ;
+	margin-bottom:20px;
+	margin-left: 10px;
+	text-align: left;
+	vertical-align: center;
+}
+
+.bg
+{
+	background-color: #242424;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h4
+{
+	font-size: 16px;
+	color: #white;
+	margin-top: 25px ;
+	margin-bottom:20px;
+	margin-left: 10px;
+	text-align: left;
+	text-decoration: underline;
+	
+}
+
+.info 
+{
+	float: left;
+}
+
+
+
+
+
+
+
+
+
